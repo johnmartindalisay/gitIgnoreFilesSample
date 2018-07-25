@@ -1,0 +1,2 @@
+# gitIgnoreFilesSample
+Git Ignore Sample
