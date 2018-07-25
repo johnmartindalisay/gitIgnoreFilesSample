@@ -1,2 +1,3 @@
 .keep
 public/images/*
+!public/images/.keep
